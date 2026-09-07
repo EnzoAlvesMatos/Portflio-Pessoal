@@ -3,7 +3,7 @@
 <h2>🖳 Sobre o Projeto</h2>
 <p>Este projeto é a criação do meu primeiro portfólio. Pretendo evoluí-lo com o tempo e, conforme aumento meus conhecimentos em programação, vou aprimorando e melhorando este projeto.</p>
 
-<h2>Objetivo</h2>
+<h2>🎯 Objetivo</h2>
 <p>Este projeto tem como objetivo principal mostrar a minha trajetória na programação e apresentar tudo o que aprendi e sou capaz de fazer na área.</p>
 
   <h2>💾 Tecnologias Usadas</h2>
