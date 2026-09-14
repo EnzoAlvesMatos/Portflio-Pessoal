@@ -6,6 +6,10 @@
 <h2>🎯 Objetivo</h2>
 <p>Este projeto tem como objetivo principal mostrar a minha trajetória na programação e apresentar tudo o que aprendi e sou capaz de fazer na área.</p>
 
+<img width="384" height="216" alt="download" src="https://github.com/user-attachments/assets/af0adebe-5c32-4c25-a878-453afed8da88" />
+
+
+
   <h2>💾 Tecnologias Usadas</h2>
   <h3>🛜 Linguagens de Programação e Marcação</h3>
 <div>
